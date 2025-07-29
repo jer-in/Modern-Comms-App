@@ -1,2 +1,2 @@
 # Modern-Comms-App
-An Web app for text-chat, voice calls, video calls and all  
+An Web app for text-chat and media sharing  
